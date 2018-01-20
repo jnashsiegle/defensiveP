@@ -111,7 +111,7 @@
 
 
 		/*====================================
-					Clock Countdown
+					Clock Countdown **
 		======================================*/
 
 		$('#clock-countdown').countdown('2018/03/20 12:00:00').on('update.countdown', function(event) {
